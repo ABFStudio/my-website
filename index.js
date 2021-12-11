@@ -1,0 +1,1 @@
+var popup = alert("Les données que vous allez saisir ici ne seront pas stockées ni enregistrées");
